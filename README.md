@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @w4x505
 - 👀 I’m interested in: 
 -     Game development
 -     Website development
