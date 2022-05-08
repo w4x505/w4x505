@@ -2,12 +2,10 @@
 - 👀 I’m interested in: 
 -     Game development
 -     Website development
-- 
 - 🌱 I’m currently learning:
--    Javascript - Node.Js
--    TypeScript
--    Webpack
-- 
+-       Javascript - Node.Js
+-       TypeScript
+-       Webpack
 - 📫 How to reach me:
 -     https://vk.com/s3lfdestruction
 -     m4x505@gmail.com
