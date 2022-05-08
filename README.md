@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @w4x505
-- 👀 I’m interested in - Game development, Website development
+- 👀 I’m interested in: 
+-     Game development
+-     Website development
 - 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning:
 -    Javascript - Node.Js
 -    TypeScript
 -    Webpack
